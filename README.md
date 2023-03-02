@@ -1,4 +1,5 @@
 # Infrastructure for powerauth-test-server on AWS
+App source: https://github.com/wultra/powerauth-tests/tree/develop/powerauth-test-server
 ## Requirements
 - prebuilt app.war file in registry
 - Terraform v1.3.9
